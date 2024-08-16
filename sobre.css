@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    background-image:url(como-organizar-cozinha-restaurante\ 1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    color: #8FCA55;
+  
+    padding-left: 100px;
+    padding-right: 100px;
+    align-items: center;
+}
+.botao{
+    color: #8FCA55;
+    display: flex; 
+   
+}
+
+
+
+#sobre-nos{
+   color: white;
+    font-size: 30px;
+    padding-left: 250px;
+    padding-top: 50px;
+}
+
+#somosum{
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    padding-left: 200px;
+    padding-top:100px ;
+}
+
+
+#sobre{
+    background-color: #80cd296b;
+    padding: 3%;
+}

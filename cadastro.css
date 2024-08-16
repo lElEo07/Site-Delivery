@@ -1,0 +1,157 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    background-image: url(cozinheiro-salteando-legumes-959x615\ 1\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    color: #8FCA55;
+    /* padding-top: 30px; */
+    padding-left: 100px;
+    padding-right: 100px;
+    align-items: center;
+}
+.botao{
+    display: flex;
+    color: #8FCA55;
+}
+
+#cadastro-nav{
+    background-color: #80cd296b;
+    padding: 3%;
+}
+
+#parte-verde{
+    background-color: #8fca55e8;
+    border-radius: 84px;
+    width: 700px;
+    height: 600px;
+    margin-left: 620px;
+    margin-top: 80px;
+}
+#criar-c{
+    font-size: 30px;
+    padding-left: 280px;
+    padding-top: 50px;
+}
+
+#coloque-seuE{
+    font-size: 20px;
+    padding-left: 200px;
+    padding-top: 20px;
+}
+
+#input-google{
+   
+    width: 400px;
+    height: 35px;
+    border-radius: 8px;
+    color: rgb(68, 67, 67);
+    margin-left: 150px;
+    margin-top: 18px;
+    border: none ;
+    padding-left: 8px;
+}
+
+#entrar-ce{
+    width: 400px;
+    height: 35px;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    padding-left: 140px;
+    margin-left: 150px;
+    border-radius: 8px;
+    color: rgb(189, 186, 186);
+    margin-top: 20px;
+    padding-top: 8px;
+}
+
+#ou-continue img{
+    padding-left:190px ;
+    padding-top: 50px;
+}
+
+#botao-google img{
+    padding-left:190px ;
+    padding-top: 50px;
+}
+
+#by-clicking img{
+    padding-left:190px ;
+    padding-top: 50px;
+}
+
+#rodape{
+    background-color: #293220ec;
+    width: 100%;
+    height: 200px ;
+    margin-top: 90px;
+    display: flex;
+    flex-direction: row;
+    padding-left: 500px;
+    gap: 150px;
+}
+
+#email img{
+    width: 30px;
+}
+
+#email{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+
+}
+
+#zapzup img{
+    width: 30px;
+}
+
+#zapzup{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+
+#insta img{
+    width: 30px;
+}
+
+#insta{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+
+#logoR img{
+    width: 70px;
+}
+
+#logoR{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#contato-nav{
+        background-color: #80cd296b;
+        padding: 3%;   
+}

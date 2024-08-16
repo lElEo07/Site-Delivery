@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    background-image: url(iStock-1409729992\ 1\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    color: #8FCA55;
+    /* padding-top: 30px; */
+    padding-left: 100px;
+    padding-right: 100px;
+    align-items: center;
+}
+.botao{
+    display: flex;
+    color: #8FCA55;
+}
+
+#Welcome{
+   text-align: center;
+   padding-top: 260px;
+}
+#leleoV{
+    text-align: center;
+    padding-left: 200px;
+    margin-top: 20px;
+}
+#Welcome img{
+    width: 25%;
+}
+
+#leleoV img{
+    width: 25%;
+}
+
+#elipse{
+    display: flex;
+    padding-left: 50%;
+   padding-top: 14%;
+}
+#elipse img{
+    width: 100%;
+}
+
+#eli1{
+    padding: 8px;
+}
+
+#eli2{
+    padding: 8px;
+}
+
+#eli3{
+    padding: 8px;
+}
+
+
+#Home{
+    background-color: #80cd296b;
+    padding: 3%;
+}

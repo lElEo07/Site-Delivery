@@ -1,0 +1,219 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+body{
+    background-image:url(chefe-de-cozinha\ 1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    color: #8FCA55;
+    padding-left: 100px;
+    padding-right: 100px;
+    align-items: center;
+}
+
+.botao{
+    color: #8FCA55;
+    display: flex;  
+}
+
+#barra-pesquisa {
+    margin-top: 3%;
+    margin-left: 21%;
+    width: 1000px;
+    height: 27px;
+    border-radius: 8px;
+    border: none;
+}
+
+input{
+    padding-left: 10px;
+    font-size: 17px;
+    padding-top: 2px;
+}
+
+#lupa img{
+    padding-left: 74.5%;
+}
+
+.pen{
+    position:relative;
+    bottom: 25px;
+    right: 50px;
+}
+
+.pratos-L1{
+    display: flex;
+    padding-left: 450px;
+    gap: 550px;
+    padding-top:50px;
+}
+
+#img1-l1{
+    display: flex;
+    flex-direction: column;
+    color: rgb(192, 186, 186);
+    font-size: 18px;
+    gap: 15px;
+}
+
+#img2-l1{
+    display: flex;
+    flex-direction: column;
+    color: rgb(223, 221, 218);
+    font-size: 18px;
+    gap: 15px;
+}
+
+#img1-l2{
+    display: flex;
+    flex-direction: column;
+    color: rgb(212, 215, 218);
+    font-size: 18px;
+    gap: 15px;
+}
+
+#img1-l1 img{
+    width: 175px;
+    height: 175px;
+}
+
+#img2-l1 img{
+    width: 175px;
+    height: 175px;
+}   
+
+.pratos-L2{
+    display: flex;
+    padding-left: 450px;
+    gap: 550px;
+    padding-top:100px;
+}
+
+#img1-l2 img{
+    width: 175px;
+    height: 175px;
+}
+
+#img2-l2 img{
+    width: 175px;
+    height: 175px;
+}
+
+.pratos-L3{
+    display: flex;
+    padding-left: 450px;
+    gap: 550px; 
+    padding-top:100px;
+}  
+
+#img1-l3 img{
+    width: 175px;
+    height: 175px;
+}
+
+#img2-l3 img{
+    width: 175px;
+    height: 175px;
+}
+
+#img2-l2{
+   display: flex;
+   flex-direction: column;
+    color: rgb(212, 215, 218);
+    font-size: 18px;
+    gap: 15px;
+}
+
+#img1-l3{
+    display: flex;
+    flex-direction: column;
+     color: rgb(212, 215, 218);
+     font-size: 18px;
+     gap: 15px;
+}
+
+#img2-l3{
+    display: flex;
+    flex-direction: column;
+     color: rgb(212, 215, 218);
+     font-size: 18px;
+     gap: 15px;   
+}
+
+#rodape{
+    background-color: #293220ec;
+    width: 100%;
+    height: 200px ;
+    margin-top: 90px;
+    display: flex;
+    flex-direction: row;
+    padding-left: 500px;
+    gap: 150px;
+}
+
+#email img{
+    width: 30px;
+}
+
+#email{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+
+}
+
+#zapzup img{
+    width: 30px;
+}
+
+#zapzup{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+
+#insta img{
+    width: 30px;
+}
+
+#insta{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+
+#logoR img{
+    width: 70px;
+}
+
+#logoR{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#pesquisa{
+    background-color: #80cd296b;
+    padding: 3%;
+}
